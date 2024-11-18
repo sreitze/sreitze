@@ -5,10 +5,11 @@
 ## Hi 👋, 
 I'm Sebastián Reitze, I'm a software engineer 👨‍💻 who is passionate about different SaaS technologies and it's integrations. I also minored in Industrial Engineering and am a self proclaimed musician 🎸. 
 
-- 🔭 I’m currently working in Buk, a comprehensive people management software and other personal projects
+- 🔭 I’m currently working in [Buk](https://www.buk.cl/), a chilean 🇨🇱 company that offers a comprehensive people management software.
+- 👷 I'm also working on other personal projects realted to personal finances
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: emai or vía linkedIn
--  ⚡ Languages: C, Ruby, Javascript/Typescript, Python3
+- 📫 How to reach me: email or vía LinkedIn
+-  ⚡ Languages: C, Ruby, Javascript/Typescript, Python3, SQL
 
 
 
